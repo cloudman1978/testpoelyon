@@ -7,3 +7,4 @@ Marc
 Clement
 Lilian
 Jérémie
+Michel
